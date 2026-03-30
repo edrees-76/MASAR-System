@@ -1,0 +1,13 @@
+bin/
+obj/
+Publish/
+Setup/
+.agents/
+.vs/
+*.user
+*.suo
+*.log
+*.txt
+*.db
+*.sqlite
+MASAR.db
